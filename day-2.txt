@@ -1,0 +1,6 @@
+What is box sizing?
+What is animation delay?
+Which property you will use to merge cells vertically in grid?
+Which property you will use to merge cells horizontally in grid?
+Explain CSS box model
+what is the difference between display none and visibility hidden?
